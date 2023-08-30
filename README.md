@@ -33,9 +33,9 @@ Removed the following variables due to them being for identifcation only
 
 First model created with deep neural network features
    * first hidden layer with 80 hidden nodes, input dimensions equal to the number of rows in the training split & activation type 'relu'
-    * second hidden layer with 30 hidden nodes & activation type 'relu'
-    * output layer with one node and activation type 'sigmoid'
-    * Training this first model through 100 epochs gave an accuacy of **0.7234** and a loss of 0.5634
+   * second hidden layer with 30 hidden nodes & activation type 'relu'
+   * output layer with one node and activation type 'sigmoid'
+   * Training this first model through 100 epochs gave an accuacy of **0.7234** and a loss of 0.5634
           This is below the target accuracy of 75%  
 
 A few attempts were made to increase the target predictive accuracy above the requested 75%
