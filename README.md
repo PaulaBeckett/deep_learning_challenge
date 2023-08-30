@@ -44,13 +44,13 @@ A few attempts were made to increase the target predictive accuracy above the re
        * Epochs reduced to 50
        * This saw a very small increase in accuracy to **0.7238** (increase of 0.0004)
 
-    * Optimisation Attempt 2
-        * First, second and third hidden layer outputs changed to 'tanh'
-        * Again, this saw a very small increase in accuracy from the first optimisation attempt to **0.7245** (increase of 0.0011 from initial training model)
+   * Optimisation Attempt 2
+       * First, second and third hidden layer outputs changed to 'tanh'
+       * Again, this saw a very small increase in accuracy from the first optimisation attempt to **0.7245** (increase of 0.0011 from initial training model)
            
-    * Optimisation Attempt 3
-        * Hidden nodes in first, second and third layers reduced to 10, 5 & 2 to assess for possible overfitting of model 
-        * This model was slightly less accurate than the first model at **0.7227** (decrease in accuracy of 0.0007)  
+   * Optimisation Attempt 3
+       * Hidden nodes in first, second and third layers reduced to 10, 5 & 2 to assess for possible overfitting of model 
+       * This model was slightly less accurate than the first model at **0.7227** (decrease in accuracy of 0.0007)  
 
 ## Summary
 
